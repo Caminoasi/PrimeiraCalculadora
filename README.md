@@ -1,2 +1,2 @@
 # PrimeiraCalculadora
-This project is my first calculator made in java, guided and instructed a java course on Udemy
+Este projeto é minha primeira calculadora feita em java, orientado e instruido pelo curso de java completo na Udemy
