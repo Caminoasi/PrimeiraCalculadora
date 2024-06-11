@@ -4,7 +4,7 @@ Bem-vindo ao repositório **PrimeiraCalculadora**.
 
 ## Descrição do Projeto
 
-Este projeto é uma calculadora desenvolvida em Java.
+Este projeto é uma calculadora desenvolvida em Java juntamente com o curso de Java da Udemy.
 
 ## Funcionalidades
 
